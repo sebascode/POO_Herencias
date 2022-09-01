@@ -14,10 +14,6 @@ public class Principal {
         System.out.println(mivehiculo.getMarca() + " "
                 + mivehiculo.getModelo());
         
-        
-        
-        
-        
         Auto miAuto = new Auto();
         miAuto.setCantidadPuertas(5);
         miAuto.setMarca("Chevrolet");
